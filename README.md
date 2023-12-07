@@ -7,4 +7,4 @@ Math Game using HTML, CSS, JS
 </h1>
 ## Screenshots
 
-![Screenshot 1](output.png)
+![Screenshot](https://raw.githubusercontent.com/sujitmahapatra/Math-Game/887a0e364efd650bf3a12884a3ba43215ca1b4ae/output/output.png)
